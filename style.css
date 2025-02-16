@@ -1,0 +1,24 @@
+.displayName{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 700px;
+    /* width: 250px; */
+}
+.displayInfo{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 500px;
+    /* width: 500px; */
+
+}
+
+.displayName ul li {
+    cursor: pointer;
+}
+.info-heading{
+    border-bottom: 2px solid black;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    
+
+}
